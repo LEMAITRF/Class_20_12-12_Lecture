@@ -1,5 +1,8 @@
 # Class_20_12-12_Lecture
 
+Author: Francesca Lemaître
+Last update: 12/12/2025
+
 ## This is a subheading
 
 I want a bulleted list:
